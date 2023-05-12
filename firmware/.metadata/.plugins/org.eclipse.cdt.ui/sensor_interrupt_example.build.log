@@ -1,0 +1,10 @@
+13:54:24 **** Incremental Build of configuration Debug for project sensor_interrupt_example ****
+make -j12 all 
+arm-none-eabi-size   sensor_interrupt_example.elf 
+   text	   data	    bss	    dec	    hex	filename
+  11792	     20	   1732	  13544	   34e8	sensor_interrupt_example.elf
+Finished building: default.size.stdout
+ 
+
+13:54:25 Build Finished. 0 errors, 0 warnings. (took 672ms)
+

@@ -1,0 +1,10 @@
+13:23:03 **** Incremental Build of configuration Release for project Definitiu20230423 ****
+make -j12 all 
+arm-none-eabi-size   Definitiu20230423.elf 
+   text	   data	    bss	    dec	    hex	filename
+   8408	     20	   1740	  10168	   27b8	Definitiu20230423.elf
+Finished building: default.size.stdout
+ 
+
+13:23:04 Build Finished. 0 errors, 0 warnings. (took 824ms)
+

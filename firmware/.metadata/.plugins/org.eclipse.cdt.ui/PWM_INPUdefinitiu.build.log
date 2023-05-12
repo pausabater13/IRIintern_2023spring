@@ -1,0 +1,10 @@
+14:49:56 **** Build of configuration Debug for project PWM_INPUdefinitiu ****
+make -j12 all 
+arm-none-eabi-size   PWM_INPUdefinitiu.elf 
+   text	   data	    bss	    dec	    hex	filename
+  11472	     20	   1652	  13144	   3358	PWM_INPUdefinitiu.elf
+Finished building: default.size.stdout
+ 
+
+14:49:57 Build Finished. 0 errors, 0 warnings. (took 567ms)
+

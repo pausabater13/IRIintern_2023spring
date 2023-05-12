@@ -1,0 +1,10 @@
+15:54:37 **** Incremental Build of configuration Release for project ADC_PWM_PulseLength ****
+make -j12 all 
+arm-none-eabi-size   ADC_PWM_PulseLength.elf 
+   text	   data	    bss	    dec	    hex	filename
+  12960	     24	   1824	  14808	   39d8	ADC_PWM_PulseLength.elf
+Finished building: default.size.stdout
+ 
+
+15:54:38 Build Finished. 0 errors, 0 warnings. (took 563ms)
+

@@ -1,0 +1,4 @@
+/home/psabater/thrust/thrust_controller-main/firmware/blink_led/Src/main.c:64:5:main	8	static
+/home/psabater/thrust/thrust_controller-main/firmware/blink_led/Src/main.c:109:6:SystemClock_Config	88	static
+/home/psabater/thrust/thrust_controller-main/firmware/blink_led/Src/main.c:153:13:MX_GPIO_Init	32	static
+/home/psabater/thrust/thrust_controller-main/firmware/blink_led/Src/main.c:184:6:Error_Handler	8	static,ignoring_inline_asm

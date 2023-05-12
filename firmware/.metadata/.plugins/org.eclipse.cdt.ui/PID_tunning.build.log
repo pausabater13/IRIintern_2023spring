@@ -1,0 +1,10 @@
+19:14:59 **** Build of configuration Debug for project PID_tunning ****
+make -j12 all 
+arm-none-eabi-size   PID_tunning.elf 
+   text	   data	    bss	    dec	    hex	filename
+  13764	     20	   1740	  15524	   3ca4	PID_tunning.elf
+Finished building: default.size.stdout
+ 
+
+19:15:00 Build Finished. 0 errors, 0 warnings. (took 588ms)
+

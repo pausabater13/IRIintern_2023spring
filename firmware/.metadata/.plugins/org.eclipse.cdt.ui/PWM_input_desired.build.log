@@ -1,0 +1,10 @@
+18:56:11 **** Incremental Build of configuration Debug for project PWM_input_desired ****
+make -j12 all 
+arm-none-eabi-size   PWM_input_desired.elf 
+   text	   data	    bss	    dec	    hex	filename
+  13212	     20	   1804	  15036	   3abc	PWM_input_desired.elf
+Finished building: default.size.stdout
+ 
+
+18:56:12 Build Finished. 0 errors, 0 warnings. (took 569ms)
+

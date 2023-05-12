@@ -1,0 +1,10 @@
+14:49:58 **** Incremental Build of configuration Release for project test_ADCandPWM_InOut ****
+make -j12 all 
+arm-none-eabi-size   test_ADCandPWM_InOut.elf 
+   text	   data	    bss	    dec	    hex	filename
+  12640	     32	   1816	  14488	   3898	test_ADCandPWM_InOut.elf
+Finished building: default.size.stdout
+ 
+
+14:49:59 Build Finished. 0 errors, 0 warnings. (took 567ms)
+

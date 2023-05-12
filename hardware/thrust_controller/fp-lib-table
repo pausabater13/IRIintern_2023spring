@@ -1,0 +1,8 @@
+(fp_lib_table
+  (lib (name "TPS79133DBVT")(type "KiCad")(uri "${KIPRJMOD}/TPS79133DBVT/footprints.pretty")(options "")(descr ""))
+  (lib (name "DF13-4P-1-25DS-20")(type "KiCad")(uri "${KIPRJMOD}/DF13-4P-1-25DS-20/footprints.pretty")(options "")(descr ""))
+  (lib (name "OPA317ID")(type "KiCad")(uri "${KIPRJMOD}/OPA317ID/footprints.pretty")(options "")(descr ""))
+  (lib (name "LM3940ISX-3-3-NOPB")(type "KiCad")(uri "${KIPRJMOD}/LM3940ISX-3-3-NOPB/footprints.pretty")(options "")(descr ""))
+  (lib (name "AP7217A-33SG-13")(type "KiCad")(uri "${KIPRJMOD}/AP7217A-33SG-13/footprints.pretty")(options "")(descr ""))
+  (lib (name "MAX1487ESA&plus_")(type "KiCad")(uri "${KIPRJMOD}/MAX1487ESA&plus_/footprints.pretty")(options "")(descr ""))
+)

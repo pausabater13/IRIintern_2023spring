@@ -1,0 +1,11 @@
+18:55:12 **** Incremental Build of configuration Debug for project PWM_InputOutput_definitiu ****
+make -j12 all 
+arm-none-eabi-gcc -o "PWM_InputOutput_definitiu.elf" @"objects.list"   -mcpu=cortex-m0plus -T"/home/psabater/THRUST/thrust_controller-main/firmware/PWM_InputOutput_definitiu/STM32L011F4PX_FLASH.ld" --specs=nosys.specs -Wl,-Map="PWM_InputOutput_definitiu.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+/opt/st/stm32cubeide_1.12.0/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.10.3-2021.10.linux64_1.0.200.202301161003/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/bin/ld: PWM_InputOutput_definitiu.elf section `.text' will not fit in region `FLASH'
+/opt/st/stm32cubeide_1.12.0/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.10.3-2021.10.linux64_1.0.200.202301161003/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/bin/ld: region `FLASH' overflowed by 2008 bytes
+collect2: error: ld returned 1 exit status
+make: *** [makefile:64: PWM_InputOutput_definitiu.elf] Error 1
+"make -j12 all" terminated with exit code 2. Build might be incomplete.
+
+18:55:13 Build Failed. 3 errors, 0 warnings. (took 619ms)
+

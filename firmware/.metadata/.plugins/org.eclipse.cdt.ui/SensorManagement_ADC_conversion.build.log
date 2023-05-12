@@ -1,0 +1,10 @@
+14:49:58 **** Build of configuration Debug for project SensorManagement_ADC_conversion ****
+make -j12 all 
+arm-none-eabi-size   SensorManagement_ADC_conversion.elf 
+   text	   data	    bss	    dec	    hex	filename
+  10292	     20	   1732	  12044	   2f0c	SensorManagement_ADC_conversion.elf
+Finished building: default.size.stdout
+ 
+
+14:49:58 Build Finished. 0 errors, 0 warnings. (took 567ms)
+

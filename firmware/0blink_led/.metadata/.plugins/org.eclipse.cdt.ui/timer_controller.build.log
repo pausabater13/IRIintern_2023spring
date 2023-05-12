@@ -1,0 +1,10 @@
+18:31:23 **** Incremental Build of configuration Release for project timer_controller ****
+make -j12 all 
+arm-none-eabi-size   timer_controller.elf 
+   text	   data	    bss	    dec	    hex	filename
+   5272	     20	   1636	   6928	   1b10	timer_controller.elf
+Finished building: default.size.stdout
+ 
+
+18:31:24 Build Finished. 0 errors, 0 warnings. (took 622ms)
+

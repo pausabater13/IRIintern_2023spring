@@ -1,0 +1,10 @@
+18:03:11 **** Incremental Build of configuration Release for project prova1outputPWM ****
+make -j12 all 
+arm-none-eabi-size   prova1outputPWM.elf 
+   text	   data	    bss	    dec	    hex	filename
+  11444	     28	   1812	  13284	   33e4	prova1outputPWM.elf
+Finished building: default.size.stdout
+ 
+
+18:03:12 Build Finished. 0 errors, 0 warnings. (took 570ms)
+

@@ -1,0 +1,10 @@
+12:42:34 **** Incremental Build of configuration Debug for project SENSOR_MANAGEMENT ****
+make -j12 all 
+arm-none-eabi-size   SENSOR_MANAGEMENT.elf 
+   text	   data	    bss	    dec	    hex	filename
+  10544	     20	   1732	  12296	   3008	SENSOR_MANAGEMENT.elf
+Finished building: default.size.stdout
+ 
+
+12:42:34 Build Finished. 0 errors, 0 warnings. (took 567ms)
+

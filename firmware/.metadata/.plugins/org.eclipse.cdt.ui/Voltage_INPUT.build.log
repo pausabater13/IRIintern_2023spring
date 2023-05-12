@@ -1,0 +1,10 @@
+13:43:14 **** Incremental Build of configuration Debug for project Voltage_INPUT ****
+make -j12 all 
+arm-none-eabi-size   Voltage_INPUT.elf 
+   text	   data	    bss	    dec	    hex	filename
+  11284	     20	   1732	  13036	   32ec	Voltage_INPUT.elf
+Finished building: default.size.stdout
+ 
+
+13:43:15 Build Finished. 0 errors, 0 warnings. (took 824ms)
+
